@@ -1,4 +1,4 @@
-![Tasterheader](IMG-ALL/uoglogo.png)
+![Tasterheader](IMG_ALL/uoglogo.png)
 
 Welcome to this activity for the BSc Computer Games Programming course at the University of Gloucestershire! This session will give you the chance to get a taste of what kind of work you may be doing as a student on this course. Although instead of C++ or C# we're going to roll with Javascript as every kind of home computer can run this task and you can develop the code for this directly from within your web browser!
 
