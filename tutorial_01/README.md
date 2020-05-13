@@ -1,4 +1,4 @@
-![Tasterheader](IMG_ALL/tutorial_001/tutorial_header.png)
+![Tasterheader](../IMG_ALL/tutorial_001/tutorial_header.png)
 
 Welcome to the first step in this tutorial series where we introduce games programming using HTML5 and Javascript.
 
