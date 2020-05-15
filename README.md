@@ -6,6 +6,8 @@ This GitHub Repository will take you through the steps you need to go through to
 
 In order to get the most out of these tutorials you will need to set up a GitHub account and make use of Git. You can find all you need to know about setting up and getting up and running with GitHub [here](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github)
 
+To get underway with this tutorial series head over to the GitHub page for [Tutorial 1](./tree/master/tutorial_01)
+
 ## Contact Points
 If you have any sticking points on the tutorials or questions that you want to ask, feel free to email those through with any queries regarding the BSc Computer Games Programming Course, or this activity:
 

@@ -74,6 +74,8 @@ Try putting the following code snippets into your index.html and seeing what the
 
 ```
 
+Once you feel that you are ready continue on to [Tutorial Part 2](../tutorial_02/)
+
 ## Contact Points
 If you have any sticking points on this tutorial or questions feel free to email those through to:
 
