@@ -2,7 +2,9 @@
 
 Welcome to this activity for the BSc Computer Games Programming course at the University of Gloucestershire! This session will give you the chance to get a taste of what kind of work you may be doing as a student on this course. Although instead of C++ or C# we're going to roll with Javascript as every kind of home computer can run this task and you can develop the code for this directly from within your web browser!
 
-This GitHub Repository will take you through the steps you need to go through to create your own Implementation of the classic game of Pong. This tutorial series is going to use Javascript and HTML5 to introduce you to the concepts of variables, functions, scope and classes. Each step of the tutorial has it's own folder to navigate through, with the tutorial lesson content presented in the markup read.me file contained in each folder, the contents of this will be rendered in the browser on github for you to follow along with.
+This GitHub Repository will take you through the steps you need to go through to create your own implementation of the classic game of Pong. This tutorial series is going to use Javascript and HTML5 to introduce you to the concepts of variables, functions, scope and classes. Each step of the tutorial has it's own folder to navigate through, with the tutorial lesson content presented in the markup readme.md file contained in each folder, the contents of this will be rendered in the browser on github for you to follow along with.
+
+In order to get the most out of these tutorials you will need to set up a GitHub account and make use of Git. You can find all you need to know about setting up and getting up and running with GitHub [here](https://help.github.com/en/github/getting-started-with-github/signing-up-for-github)
 
 ## Contact Points
 If you have any sticking points on the tutorials or questions that you want to ask, feel free to email those through with any queries regarding the BSc Computer Games Programming Course, or this activity:
