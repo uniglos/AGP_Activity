@@ -13,6 +13,8 @@ Follow along with the video tutorial below to get underway with the creation of 
 
 ## Setting up the game scene
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSpxRrdeAhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Further Tasks
 
 
