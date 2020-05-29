@@ -1,6 +1,6 @@
 ![Tasterheader](../IMG_ALL/tutorial_002/tutorial_header.png)
 
-Now that you have had a chance to familiarise yourself with VS Code we can move on with undertaking our first steps towards re-creating the classing game of Pong.
+Now that you have had a chance to familiarise yourself with VS Code we can move on with undertaking our first steps towards re-creating the classic game of Pong.
 
 This is the first tutorial in this series where you will need to clone this repository from GitHub. 
 Cloning this repository will pull down all the files and folders in this reposoitory to your computer. Including this file!
@@ -17,7 +17,7 @@ Follow along with the video tutorial below to get underway with the creation of 
 
 ## Further Tasks
 
-
+Once you've finished this tutorial move on to [Tutorial Part 3](https://github.com/uniglos/AGP_Activity/tree/master/tutorial_03)
 
 
 ## Contact Points
