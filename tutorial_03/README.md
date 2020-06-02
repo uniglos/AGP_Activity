@@ -5,17 +5,18 @@ Continuing on with our tutorial series from where [tutorial 02](https://github.c
 This tutorial will introduce: 
 - using variables and operations upon those variables
 - simple drawing of filled shapes 
-- basic collision detection (we will keep the ball inside the bounds of the screen)
+- clearing the canvas
+- basic collision detection (we will keep the ball inside the bounds of the screen, horizontally)
 
 Follow along with the video tutorial below to get the ball rolling... (*I am so sorry for that pun*).
 
 ## Setting up the game scene
 
-[![CGP Activity: Tutorial 02 Video](http://img.youtube.com/vi/mSpxRrdeAhY/0.jpg)](http://www.youtube.com/watch?v=mSpxRrdeAhY)
+[![CGP Activity: Tutorial 03 Video](http://img.youtube.com/vi/mSpxRrdeAhY/0.jpg)](http://www.youtube.com/watch?v=mSpxRrdeAhY)
 
 ## Further Tasks
 
-Once you've finished this tutorial move on to [Tutorial Part 3](https://github.com/uniglos/CGP_Activity/tree/master/tutorial_03)
+Once you've finished this tutorial move on to [Tutorial Part 4](https://github.com/uniglos/CGP_Activity/tree/master/tutorial_04)
 
 
 ## Contact Points
